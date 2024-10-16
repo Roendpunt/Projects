@@ -1,0 +1,14 @@
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\bin\Debug\net8.0\Iso6346Check.exe
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\bin\Debug\net8.0\Iso6346Check.deps.json
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\bin\Debug\net8.0\Iso6346Check.runtimeconfig.json
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\bin\Debug\net8.0\Iso6346Check.dll
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\bin\Debug\net8.0\Iso6346Check.pdb
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.AssemblyInfoInputs.cache
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.AssemblyInfo.cs
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.csproj.CoreCompileInputs.cache
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.dll
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\refint\Iso6346Check.dll
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.pdb
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\Iso6346Check.genruntimeconfig.cache
+C:\Users\depre\Documents\Personal\isoCheckValidator\Iso6346Check\obj\Debug\net8.0\ref\Iso6346Check.dll
