@@ -27,7 +27,7 @@ Voorbeeld van gebruik:
 plaintext
 Code kopiëren
 Voer een containeridentificatienummer in: ABCD1234567
-Het nummer is geldig!
+Het nummer is ongeldig!
 Bijdragen
 Bijdragen zijn welkom! Stuur een pull request of open een issue als je verbeteringen of suggesties hebt.
 
